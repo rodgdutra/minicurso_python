@@ -16,4 +16,4 @@ Nessa parte do repositório está disposto as imagens utilizadas na elaboração
 
 ### apostila 
 Aqui está disposto a apostila que segue como material de apoio ao minicurso de python, sendo que existe uma versão `.odt` permitindo editar caso necessário e uma versão em `PDF` para a leitura.
-O link para a versão em pdf : [Apostila](https://github.com/rodgdutra/minicurso_python/blob/master/apostila_minicurso_python.pdf)
+O link para a versão em pdf : [Apostila](https://github.com/rodgdutra/minicurso_python/blob/master/apostila/apostila_minicurso_python.pdf)
